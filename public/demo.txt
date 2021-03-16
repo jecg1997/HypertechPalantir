@@ -1,0 +1,21 @@
+{
+  "IMU-Information": {
+    "Acceleration": "0.0",
+    "Magnetometer": "0.0"
+  },
+  "GPS-Information": {
+    "Latitude": "30.58768",
+    "Longitude": "-96.32360",
+    "Altitude": "78.805"
+  },
+  "Network-Info": {
+    "Ip": "0.0.0.0",
+    "ConnectionStatus": "\nConnected"
+  },
+  "Radio-Status": {
+    "Connection-Status": "\nConnected"
+  },
+  "Battery-Status": {
+    "Voltage": "Current Battery Voltage"
+  }
+}
